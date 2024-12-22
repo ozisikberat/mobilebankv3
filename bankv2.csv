@@ -1,0 +1,175 @@
+,sorgu,label,le
+0,kredi kartımı kaybettim,kartkayip,1
+1,banka kartımı kaybettim,kartkayip,1
+2,kredi kartımı bulamıyorum,kartkayip,1
+3,kredi kartım çalındı,kartkayip,1
+4,kredi kartımın olduğunu bilmiyorum,kartkayip,1
+5,kredi kartımın olduğu çüzdan çalındı,kartkayip,1
+6,kredi kartım kayboldu,kartkayip,1
+7,banka kartım kayboldu,kartkayip,1
+8,banka kartımı bulamıyorum,kartkayip,1
+9,banka kartım çalındı,kartkayip,1
+10,banka kartımın olduğunu bilmiyorum,kartkayip,1
+11,banka kartımın olduğu cüzdan çalındı,kartkayip,1
+12,banka kartım kayboldu,kartkayip,1
+13,kredi kartımı unuttum,kartkayip,1
+14,banka kartımı unuttum,kartkayip,1
+15,kredi kartımı arıyorum,kartkayip,1
+16,banka kartımı arıyorum,kartkayip,1
+17,kredi kartımı bulamıyorum,kartkayip,1
+18,banka kartımı bulamıyorum,kartkayip,1
+19,kredi kartımı kaybetmiş olabilirim,kartkayip,1
+20,banka kartımı kaybetmiş olabilirim,kartkayip,1
+21,kredi kartım çalınmış olabilir,kartkayip,1
+22,banka kartım çalınmış olabilir,kartkayip,1
+23,kredi kartımın yerini hatırlamıyorum,kartkayip,1
+24,banka kartımın yerini hatırlamıyorum,kartkayip,1
+25,kredi kartımın yerini unuttum,kartkayip,1
+26,banka kartımın yerini unuttum,kartkayip,1
+27,kredi kartımın yerini bulamıyorum,kartkayip,1
+28,banka kartımın yerini bulamıyorum,kartkayip,1
+29,kredi kartımı çaldırdım,kartkayip,1
+30,banka kartımı çaldırdım,kartkayip,1
+31,kredi kartımı bulamıyorum yardım eder misiniz ,kartkayip,1
+32,banka kartımı bulamıyorum yardım eder misiniz ,kartkayip,1
+33,kredi kartımın kaybolduğunu düşünüyorum,kartkayip,1
+34,banka kartımın kaybolduğunu düşünüyorum,kartkayip,1
+35,kredi kartımı bulmak yapmalıyım ,kartkayip,1
+36,banka kartımı bulmak yapmalıyım ,kartkayip,1
+37,kredi kartımın kaybolduğunu bildirmeliyim ,kartkayip,1
+38,banka kartımın kaybolduğunu bildirmeliyim ,kartkayip,1
+39,kredi kartımı çaldırdım yapmalıyım ,kartkayip,1
+40,banka kartımı çaldırdım yapmalıyım ,kartkayip,1
+41,kredi kartımın çalındığını anlarım ,kartkayip,1
+42,banka kartımın çalındığını anlarım ,kartkayip,1
+43,kredi kartımın çalındığını rapor ederim ,kartkayip,1
+44,banka kartımın çalındığını rapor ederim ,kartkayip,1
+45,kredi kartımın kullanıldığını kontrol ederim ,kartkayip,1
+46,banka kartımın kullanıldığını kontrol ederim ,kartkayip,1
+47,kredi kartımı kaybetmişsem yapmalıyım ,kartkayip,1
+48,banka kartımı kaybetmişsem yapmalıyım ,kartkayip,1
+49,kredi kartı borcumu ödemek istiyorum,borcodeme,0
+50,kart borcumu ödemek istiyorum,borcodeme,0
+51,bu ayki kredi kartı ödememi yapmak istiyorum,borcodeme,0
+52,kredi kartı borcu ödemek istiyorum,borcodeme,0
+53,kredi kartı borcumun asgari tutarını ödemek istiyorum,borcodeme,0
+54,kart borcumu ödeyecem,borcodeme,0
+55,kredi kartı borcu ödeme,borcodeme,0
+56,borç ödeme,borcodeme,0
+57,kredi kartı borcumu kapatmak istiyorum,borcodeme,0
+58,kart borcumu kapatmak istiyorum,borcodeme,0
+59,kredi kartı ödememi gerçekleştirmek istiyorum,borcodeme,0
+60,bu ayki borcumu ödeyebilir miyim ,borcodeme,0
+61,kredi kartı borç ödeme planımı görmek istiyorum,borcodeme,0
+62,kredi kartı borcumu online ödemek istiyorum,borcodeme,0
+63,kredi kartı borcumu hemen ödemek istiyorum,borcodeme,0
+64,kart borcumun tamamını kapatmak istiyorum,borcodeme,0
+65,kredi kartı borcumun detaylarını görmek istiyorum,borcodeme,0
+66,borçlarımı düzenli bir şekilde ödemek istiyorum,borcodeme,0
+67,kredi kartı borcumu hızlı bir şekilde ödemek istiyorum,borcodeme,0
+68,kredi kartı borcumun ödeme tarihini öğrenmek istiyorum,borcodeme,0
+69,kart borcumu hemen ödüyorum,borcodeme,0
+70,kredi kartı borcumu kapatma seçenekleri neler ,borcodeme,0
+71,kart borcumu ödeyebilirim ,borcodeme,0
+72,bu ayki kredi kartı borcumu öğrenebilirim ,borcodeme,0
+73,kredi kartı borcumu taksitli ödemek istiyorum,borcodeme,0
+74,kart borcumu taksitlendirme,borcodeme,0
+75,kredi kartı borcumu yarıda bırakmak istiyorum,borcodeme,0
+76,kart borcumun minimum tutarını ödemek istiyorum,borcodeme,0
+77,kredi kartı borcumu ödeme konusunda yardım istiyorum,borcodeme,0
+78,kart borcumu düzenli olarak ödemek istiyorum,borcodeme,0
+79,kredi kartı borcumu bir seferde ödemek istiyorum,borcodeme,0
+80,kart borcumu zaman ödemeliyim ,borcodeme,0
+81,bu ayki kredi kartı ödemesini kaçırmak istemiyorum,borcodeme,0
+82,kredi kartı borcumu indirimli ödemek istiyorum,borcodeme,0
+83,kart borcumu hemen kapatmak istiyorum,borcodeme,0
+84,kredi kartı borcumu ödeyebilmek yapmalıyım ,borcodeme,0
+85,kart borcumu ödeme seçenekleri neler ,borcodeme,0
+86,kredi kartı borcumu kapatmak uygun bir yol arıyorum,borcodeme,0
+87,bu ayki kredi kartı ekstremi ödeme zamanımı öğrenmek istiyorum,borcodeme,0
+88,kart borcumu online bankacılık üzerinden ödemek istiyorum,borcodeme,0
+89,kredi kartı borcumu düzenli olarak kontrol etmek istiyorum,borcodeme,0
+90,kart borcumu kapatmak kadar ödemem gerekiyor ,borcodeme,0
+91,kredi kartı borcumun güncel tutarını öğrenmek istiyorum,borcodeme,0
+92,kart borcumu hemen kapatmalı mıyım yoksa taksitlendirmeli miyim ,borcodeme,0
+93,kredi kartı borcumu bir defada kapatmak istiyorum,borcodeme,0
+94,kart borcumu kısa sürede ödemek istiyorum,borcodeme,0
+95,kredi kartı borcumu ödemek otomatik ödeme talimatı verebilir miyim ,borcodeme,0
+96,anneme para göndermek istiyorum,paragonderme,2
+97,para transferi yapmak istiyorum,paragonderme,2
+98,fast para göndermek istiyorum,paragonderme,2
+99,kayıtlı numaraya para transferi,paragonderme,2
+100,para göndermek istiyorum,paragonderme,2
+101,para transferi yapmak istiyorum,paragonderme,2
+102,eft para göndermek istiyorum,paragonderme,2
+103,havale para göndermek istiyorum,paragonderme,2
+104,anneme hemen para göndermek istiyorum,paragonderme,2
+105,hızlı bir şekilde para transferi yapmak istiyorum,paragonderme,2
+106,banka hesabına para göndermek istiyorum,paragonderme,2
+107,mobil uygulama üzerinden para transferi,paragonderme,2
+108,online olarak para göndermek istiyorum,paragonderme,2
+109,para transferi yapmalıyım ,paragonderme,2
+110,kolay bir şekilde para göndermek istiyorum,paragonderme,2
+111,anneme acil para göndermek istiyorum,paragonderme,2
+112,para gönderme işlemi yapılır ,paragonderme,2
+113,para transferi gereken bilgiler neler ,paragonderme,2
+114,hesap numarasına para transferi yapmak istiyorum,paragonderme,2
+115,kredi kartıyla para göndermek istiyorum,paragonderme,2
+116,para transferi ücretleri neler ,paragonderme,2
+117,mobil cüzdan üzerinden para göndermek istiyorum,paragonderme,2
+118,banka şubesinden para transferi,paragonderme,2
+119,hesap bilgilerini kullanarak para göndermek istiyorum,paragonderme,2
+120,para transferi işlem süresi nedir ,paragonderme,2
+121,anneme güvenli bir şekilde para göndermek istiyorum,paragonderme,2
+122,para gönderme limiti nedir ,paragonderme,2
+123,kredi kartıyla hızlı para transferi yapmak istiyorum,paragonderme,2
+124,havale ücretleri neler ,paragonderme,2
+125,para transferi yaparken nelere dikkat etmeliyim ,paragonderme,2
+126,banka hesabıma para göndermek istiyorum,paragonderme,2
+127,eft ücretleri nedir ,paragonderme,2
+128,mobil uygulama üzerinden hemen para göndermek istiyorum,paragonderme,2
+129,kredi kartıyla anında para transferi yapmak istiyorum,paragonderme,2
+130,para gönderme işlemi güvenli mi ,paragonderme,2
+131,havale yaparken nelere dikkat etmeliyim ,paragonderme,2
+132,para transferi sırasında hangi bilgiler gerekli ,paragonderme,2
+133,anneme online olarak para göndermek istiyorum,paragonderme,2
+134,fast hızlı para göndermek istiyorum,paragonderme,2
+135,hesap bilgileri olmadan para transferi yapabilir miyim ,paragonderme,2
+136,banka şubesine gitmeden para göndermek istiyorum,paragonderme,2
+137,para transferi yaparken alınan komisyonlar neler ,paragonderme,2
+138,havale işlemi gereken bilgiler neler ,paragonderme,2
+139,kredi kartıyla güvenli para transferi yapmak istiyorum,paragonderme,2
+140,para gönderme işlemi sonrasında bilgilendirme alabilirim ,paragonderme,2
+141,eft işlem süresi nedir ,paragonderme,2
+142,mobil cüzdan kolay para transferi yapmak istiyorum,paragonderme,2
+0,Müşteri hizmetleri ile iletişime geçmek istiyorum.,musterihizmetleri,3
+1,Müşteri hizmetlerine ulaşmak için yardıma ihtiyacım var.,musterihizmetleri,3
+2,Müşteri temsilcisi ile konuşmak istiyorum.,musterihizmetleri,3
+3,Müşteri destek hattı ile iletişim kurmak istiyorum.,musterihizmetleri,3
+4,Müşteri hizmetleri numarasını arayarak yardım almak istiyorum.,musterihizmetleri,3
+5,Müşteri hizmetleri departmanına bağlanmak istiyorum.,musterihizmetleri,3
+6,Müşteri temsilcisine doğrudan ulaşmak istiyorum.,musterihizmetleri,3
+7,Müşteri destek ekibi ile görüşmem gerekiyor.,musterihizmetleri,3
+8,Müşteri hizmetlerine bağlanmam lazım.,musterihizmetleri,3
+9,Müşteri hizmetlerine telefonla ulaşabilir miyim?,musterihizmetleri,3
+10,Müşteri hizmetlerine mail atmak istiyorum.,musterihizmetleri,3
+11,Müşteri hizmetlerinden telefonla destek almak istiyorum.,musterihizmetleri,3
+12,Müşteri hizmetleri temsilcisi ile görüşmek istiyorum.,musterihizmetleri,3
+13,Müşteri desteği ile konuşmak istiyorum.,musterihizmetleri,3
+14,Müşteri hizmetleri ile görüşmem gerekti.,musterihizmetleri,3
+15,Müşteri temsilcisi ile acil olarak konuşmam lazım.,musterihizmetleri,3
+16,Müşteri destek hattına bağlanmam gerekiyor.,musterihizmetleri,3
+17,Müşteri hizmetleri ile irtibata geçmek istiyorum.,musterihizmetleri,3
+18,Müşteri hizmetlerine yardım talebinde bulunmak istiyorum.,musterihizmetleri,3
+19,Müşteri temsilcisi ile görüşme talep ediyorum.,musterihizmetleri,3
+20,Müşteri hizmetlerine direk bağlantı istiyorum.,musterihizmetleri,3
+21,Müşteri destek servisi ile konuşmak istiyorum.,musterihizmetleri,3
+22,Müşteri hizmetleri ile bir sorunum var.,musterihizmetleri,3
+23,Müşteri hizmetlerine telefon açmak istiyorum.,musterihizmetleri,3
+24,Müşteri destek hattına ulaşmak istiyorum.,musterihizmetleri,3
+25,Müşteri temsilcisiyle telefon görüşmesi yapmak istiyorum.,musterihizmetleri,3
+26,Müşteri hizmetlerine yazılı olarak ulaşmak istiyorum.,musterihizmetleri,3
+27,Müşteri temsilcisi ile görüşme ayarlamak istiyorum.,musterihizmetleri,3
+28,Müşteri destek ekibine ulaşmak istiyorum.,musterihizmetleri,3
+29,Müşteri hizmetleri ile bağlantıya geçmek istiyorum.,musterihizmetleri,3
+30,Müşteri destek hattı ile görüşmem gerekiyor.,musterihizmetleri,3
